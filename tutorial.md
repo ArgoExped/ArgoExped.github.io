@@ -1,15 +1,23 @@
 ---
 layout: page
-title: Tutorial
+title: Balance Logs
 include_in_header: true
 ---
 
 **Last updated**  
-June 1 2021
+Feb 2. 14. 2022
 
-# Tutorial
+# Balance Logs
 
 <br>
 
-## 1.0 On working
-Welcome to Argo Expedition.
+## 1.2.09 Feb 2. 9. 2022
+1. Captain
+     - Skill Rate: 100%
+     - Skill targets: according to a number
+     - Energy: Available at number (256/128/64/32) or more
+2. Justice
+     - Skill probability increases with number
+3. Vigilante
+     - Increase in skill attack power decreases (4>2)
+     - Smaller skill range
